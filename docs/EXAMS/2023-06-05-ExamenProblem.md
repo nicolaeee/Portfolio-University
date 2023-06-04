@@ -1,5 +1,5 @@
 ---
-title: Teorie Examen
+title: Problems Error
 author: Gorobet Nicolae
 ---
 
